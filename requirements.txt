@@ -1,1 +1,4 @@
-fastapi, uvicorn, upstash-redis,
+fastapi
+uvicorn
+upstash-redis
+requests
